@@ -1,1 +1,1 @@
-# desafio-regress-o-log-stica
+# Desafio Regressão Logística
