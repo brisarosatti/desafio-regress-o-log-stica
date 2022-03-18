@@ -6,7 +6,7 @@ Segundo desafio do Bootcamp de Data Science and Machine Learnin da Tera.
 
 Neste desafio, vamos resolver um caso de preço de imóveis. Este desafio foi construído em parceria entre Tera e o QuintoAndar, onde o objetivo é simular um projeto de Machine Learning com características semelhantes ao que acontece no dia-a-dia da empresa.
 
-Imagine-se na seguinte situação: A área de marketing da QuintoAndar quer montar uma calculadora de preço como esta [aqui:](https://mkt.quintoandar.com.br/quanto-cobrar-de-aluguel/), e neste projeto, analistas e corretores de negócios também querem entender as principais variáveis e características chave que influenciam o valor de venda do imóvel (por exemplo, quantificar o impacto do aumento da área do imóvel no preço, ou quantificar o impacto de ter uma piscina, ou não, no preço). Você é o cientista de dados que vai agir para resolver este caso.
+Imagine-se na seguinte situação: A área de marketing da QuintoAndar quer montar uma calculadora de preço como esta [aqui](https://mkt.quintoandar.com.br/quanto-cobrar-de-aluguel/), e neste projeto, analistas e corretores de negócios também querem entender as principais variáveis e características chave que influenciam o valor de venda do imóvel (por exemplo, quantificar o impacto do aumento da área do imóvel no preço, ou quantificar o impacto de ter uma piscina, ou não, no preço). Você é o cientista de dados que vai agir para resolver este caso.
 
 ## Base de dados
 [Base de dados](https://drive.google.com/file/d/1THulRo680Wqf5MPjMvfNQ1ouhCeMvQaX/view?usp=sharing])
